@@ -9,8 +9,8 @@ Possible json structure:
 
 ```
 		{
-		"url": "https://github.com/NaimSantos/Customs",
-		"repo_name": "Naim's Custom Pack",
+		"url": "https://github.com/MAngelWar/Customs",
+		"repo_name": "MAngelWar's Custom Pack",
 		"repo_path": "./repositories/customcards",
 		"should_update": true,
 		"should_read": true
