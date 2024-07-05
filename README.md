@@ -1,5 +1,7 @@
 # Customs
-
+<p align="center">
+	<img src="./Icon_Cards.Png" alt="Multirole logo"/>
+</p>
 
 Contiene pics, script, cdb y algunas ideas.
 
