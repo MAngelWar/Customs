@@ -1,10 +1,10 @@
 # Customs
 
 
-Contains ideias, scripts, cdbs and pictures for cards that I script.
+Contiene pics, script, cdb y algunas ideas.
 
 
-Possible json structure:
+Copiar en el config.json:
 
 
 ```
