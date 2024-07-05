@@ -1,8 +1,6 @@
-# Customs
-<p align="left">
-	<img src="./Icon_Cards.Png" alt="Multirole logo"/>
-</p>
-<p align="right">
+# Repo de cartas Custom
+##MAngelWar
+<p align="center">
 	<img src="./ignis_logo.png" alt="Multirole logo"/>
 </p>
 Contiene pics, script, cdb y algunas ideas.
