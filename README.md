@@ -1,8 +1,10 @@
 # Customs
-<p align="center">
+<p align="left">
 	<img src="./Icon_Cards.Png" alt="Multirole logo"/>
 </p>
-
+<p align="right">
+	<img src="./ignis_logo.png" alt="Multirole logo"/>
+</p>
 Contiene pics, script, cdb y algunas ideas.
 
 
